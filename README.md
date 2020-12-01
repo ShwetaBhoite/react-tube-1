@@ -31,7 +31,4 @@ Available online: http://the-react-tube.herokuapp.com/
   - Node.js
   - React.js
 
-# Author
-<ul>
-  <li><a href="https://in.linkedin.com/in/itsksaurabh">Kumar Saurabh</a></li>
-</ul>
+

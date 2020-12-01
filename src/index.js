@@ -9,7 +9,7 @@ import YTSearch from 'youtube-api-search';
 import _ from 'lodash'
 
 
-const API_KEY = 'AIzaSyDcfAN9pTy3QN7HfUYE1j_FAo4JC21YSPA';
+const API_KEY = 'AIzaSyCIi_A3W81AueXiiFVEcqQKsiwonWtTQRg';
 
 
 class App extends Component{
